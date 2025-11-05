@@ -11,7 +11,6 @@ The data is highly imbalanced, as fraudulent transactions represent only **0.17%
 | File | Description |
 |------|--------------|
 | `fraud_detection.ipynb` | Main Jupyter Notebook containing the analysis and ML models |
-| `creditcard.csv` | Dataset used for training and testing |
 | `fraud_model.pkl` | Saved trained ML model (Random Forest or Logistic Regression) |
 
 ---
